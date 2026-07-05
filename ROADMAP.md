@@ -9,16 +9,16 @@
 ### Launcher
 - Auto-update silencioso do próprio launcher
 - Verificação SHA256 dos arquivos do jogo a cada boot
-- Login com usuário/senha + JWT
+- Login com usuário/senha
 - Detecção automática do Skyrim instalado (Steam)
 - Banner de aviso quando o usuário não está logado
 - Bloqueio do botão JOGAR sem login válido
 
 ### Conta e autenticação
 - Cadastro com username/senha
-- JWT com expiração de 30 dias
+- Sessão de login segura no launcher
 - Hash de senha com bcrypt (custo padrão da indústria)
-- Endpoint de validação de token
+- Validação de sessão entre launcher e servidor
 
 ### Infraestrutura
 - Servidor dedicado 24/7 (VPS Linux)
