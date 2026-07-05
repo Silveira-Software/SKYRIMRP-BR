@@ -1,0 +1,22 @@
+# Arquivos do SO
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporários
+*.log
+*.tmp
+*.bak
+
+# NÃO subir jamais (mesmo por engano):
+*.env
+*.pem
+*.key
+config.json
+secrets.*
