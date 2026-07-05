@@ -89,7 +89,7 @@ Veja [CONTRIBUTING.md](CONTRIBUTING.md) para detalhes.
 ## 📞 Contato
 
 - **Suporte / bugs:** canal `#suporte` no Discord oficial
-- **Imprensa / parceria:** `contato@brlink.site`
+- **Imprensa / parceria:** [@kaduapps no Instagram](https://instagram.com/kaduapps)
 - **Segurança (vulnerabilidades):** veja [SECURITY.md](SECURITY.md)
 
 ---
